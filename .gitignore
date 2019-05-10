@@ -1,0 +1,15 @@
+# Folders
+node_modules/
+public/
+/api
+server/
+auto-tests/venv
+documentation/
+
+# Files
+.DS_Store
+package-lock.json
+.idea
+*.log
+./certification
+cloc.csv
