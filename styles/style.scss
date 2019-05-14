@@ -1,0 +1,9 @@
+.wrapper {
+	& > div {
+		margin: 0 auto;
+	}
+
+	.slider {
+		width: 100%;
+	}
+}
